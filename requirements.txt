@@ -1,2 +1,4 @@
 mlxtend
 missingno
+catboost
+statsmodels
