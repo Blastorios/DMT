@@ -2,3 +2,4 @@ mlxtend
 missingno
 catboost
 statsmodels
+xgboost
